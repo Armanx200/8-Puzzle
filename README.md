@@ -14,3 +14,4 @@ A* Search Algorithm
 Example Usage
 - The script includes an example usage section with a predefined initial state.
 - If a solution is found, it prints the solution path with each step, otherwise, it indicates that no solution was found.
+Arman Kianian
